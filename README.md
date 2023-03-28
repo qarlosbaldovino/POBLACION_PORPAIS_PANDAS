@@ -6,6 +6,7 @@ Los datos de poblacion serán por decada, desde los años 70s hasta los 2020s, y
 • Lo ejecutaremos por consola:
 
 > Nos preguntará que país deseamos buscar:
+
 ![Dashboard](https://github.com/qarlosbaldovino/POBLACION_PORPAIS_PANDAS/blob/master/terminalone.png?raw=true)
 
 No pasará nada en la terminal pero en los archivos aparecerá el archivo PNG del gráfico.
