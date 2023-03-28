@@ -1,0 +1,7 @@
+services:
+  pandas-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/13.Pandas
