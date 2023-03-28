@@ -6,20 +6,22 @@ Los datos de poblacion serán por decada, desde los años 70s hasta los 2020s, y
 • Lo ejecutaremos por consola:
 
 > Nos preguntará que país deseamos buscar:
+![Dashboard](https://github.com/qarlosbaldovino/POBLACION_PORPAIS_PANDAS/blob/master/terminalone.png?raw=true)
 
 No pasará nada en la terminal pero en los archivos aparecerá el archivo PNG del gráfico.
+![Dashboard](https://github.com/qarlosbaldovino/POBLACION_PORPAIS_PANDAS/blob/master/Peru_bar.png?raw=true)
 
 > Para ejecutar este programa deberá instalar WSL2 y Python en su terminal.
-'''bash
+```bash
 wsl --install
-'''
+```
 
 > Dentro del repositorio hay un archivo txt (requeriments.txt) donde estarán todas las dependencias necesarias, las instalaremos:
-'''bash
+```bash
 python3 -m pip install requeriments.txt
-'''
+```
 
 > Luego lo ejecutamos.
-'''bash
+```bash
 python3 population_country.py
-'''
+```
